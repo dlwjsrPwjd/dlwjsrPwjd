@@ -7,8 +7,8 @@
 
 ---
 
-<a href="https://github.com/내깃허브아이디/gitanimals">
-  <img src="https://render.gitanimals.org/lines/내깃허브아이디?pet-id=1" width="1000" height="120"/>
+<a href="https://github.com/dlwjsrPwjd/gitanimals">
+  <img src="https://render.gitanimals.org/lines/dlwjsrPwjd?pet-id=1" width="1000" height="120"/>
 </a>
 
 ### About Me

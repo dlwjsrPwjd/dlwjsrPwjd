@@ -7,9 +7,7 @@
 
 ---
 
-<a href="https://github.com/dlwjsrPwjd/gitanimals">
-  <img src="https://render.gitanimals.org/lines/dlwjsrPwjd?pet-id=1" width="1000" height="120"/>
-</a>
+![내 펫 농장](https://render.gitanimals.org/farms/dlwjsrPwjd)
 
 ### About Me
 
